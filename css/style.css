@@ -1,0 +1,118 @@
+/* 
+Author: Aeryn Mitchell
+Date: 2/7/2024
+File Name: style.css
+*/
+
+/* css reset*/
+/*style rules for navigation area*/
+
+header {
+    Margin: 0em;
+    padding: 0em;
+    border: 0em;
+}
+
+body {
+    margin: 0em;
+    padding: 0em;
+    border: 0em;
+    background-color: #f6eee4;
+    
+}
+
+nav {
+    margin: 0em;
+    padding: 0em;
+    border: 0em;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0em;
+    text-align: center;
+}
+
+nav li{
+    display: inline-block;
+    font-size: 1.5em;
+    font-family: Geneva, Arial, sans-serif;
+    font-weight: bold;
+}
+
+nav li a{
+    background-color: #2a1f14;
+    display: block;
+    padding: 0.5em 2em;
+}
+/* style rules for main content */
+
+main {
+    margin:0em;
+    padding: 0em;
+    border: 0em;
+    padding: 2%;
+    font-family: Verdana, Arial, sans-serif;  
+}
+
+main h3 {
+    padding: 2%;
+}
+
+main p {
+    font-size: 1.25em; 
+}
+
+main ul {
+   list-style-type: square; 
+}
+
+.link {
+    color: #4d3319;
+    font-weight: bold;
+    font-style: italic;
+}
+.action {
+    font-size: 1.75em;
+    font-weight: bold;
+    text-align: center;
+    
+}
+#contact selector{
+    text-align: center;
+}
+footer {
+    margin:0em;
+    padding: 0em;
+    border: 0em;
+    font-size: 0.85em;
+    text-align: center;
+    background-color: #2a1f14;
+    color: #2a1f14;
+    padding: 1% 0%;
+
+}
+footer a {
+    color: #f3e6d8;
+    
+}
+
+img {
+    margin: 0em;
+    padding: 0em;
+    border: 0em;
+    max-width: 100%;
+    display: block;
+}
+ h1 {
+    margin: 0em; 
+    padding: 0em;
+    border: 0em;
+}
+
+ h2 {
+    margin: 0em;
+    padding: 0em;
+    border: 0em;
+}
+
